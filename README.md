@@ -1,5 +1,5 @@
 <h1 align="center">Hello!👋, I'm Jesus Hernandez</h1>
-<h3 align="center">A tech enthusiast and a self-learner.</h3>
+<h3 align="center">A Web Developer, Tech Enthusiast, and a Self-Learner.</h3>
 
 <p>&nbsp;</p>
 
