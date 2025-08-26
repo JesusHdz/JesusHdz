@@ -101,7 +101,7 @@
 ## 📈 My Stats:     <a href="https://github.com/JesusHdz"> <img src="https://komarev.com/ghpvc/?username=JesusHdz" /></a>
 <p align = "center">
 <a href="https://github.com/JesusHdz">
-  <img src="http://github-readme-stats-eta-three-43.vercel.app/api?username=JesusHdz&count_private=true&show_icons=true&theme=material-palenight" /></a>
+  <img src="https://github-readme-stats-eta-three-43.vercel.app/api?username=JesusHdz&count_private=true&show_icons=true&theme=material-palenight" /></a>
 <a href="https://github.com/JesusHdz/">
 <a href="https://github.com/JesusHdz/">
-  <img width = "40%"src="http://github-readme-stats-eta-three-43.vercel.app/api/top-langs/?username=JesusHdz&layout=donut&theme=material-palenight" /></a>
+  <img width = "40%"src="https://github-readme-stats-eta-three-43.vercel.app/api/top-langs/?username=JesusHdz&layout=donut&theme=material-palenight" /></a>
